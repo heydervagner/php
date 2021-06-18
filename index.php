@@ -1,5 +1,5 @@
 <?php 
 
-echo "Desgraça de tanta burrice";
+echo "Hello World";
 
 ?>
